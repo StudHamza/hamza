@@ -8,10 +8,10 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  flags: {
-    DEV_SSR: true
-  },
-  pathPrefix: "/hamza",
+  // flags: {
+  //   DEV_SSR: true
+  // },
+  pathPrefix: "/",
   plugins: [],
 
 }
