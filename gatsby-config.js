@@ -11,7 +11,7 @@ module.exports = {
   // flags: {
   //   DEV_SSR: true
   // },
-  pathPrefix: "/",
+  pathPrefix: "/hamza/",
   plugins: [],
 
 }
